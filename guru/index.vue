@@ -37,6 +37,23 @@ import guru13 from "@/assets/guru/joy.jpg";
 import guru14 from "@/assets/guru/suminar.jpg";
 
 
+const guruList = [
+  { nama: " Ai Siti ", mapel: "B . Inggris", foto: guru1 },
+  { nama: " Ai Siti ", mapel: "B . Inggris", foto: guru2 },
+  { nama: " Ai Siti ", mapel: "B . Inggris", foto: guru3 },
+  { nama: " Ai Siti ", mapel: "B . Inggris", foto: guru4 },
+  { nama: " Ai Siti ", mapel: "B . Inggris", foto: guru5 },
+  { nama: " Ai Siti ", mapel: "B . Inggris", foto: guru6 },
+  { nama: " Ai Siti ", mapel: "B . Inggris", foto: guru7 },
+  { nama: " Ai Siti ", mapel: "B . Inggris", foto: guru8 },
+  { nama: " Ai Siti ", mapel: "B . Inggris", foto: guru9 },
+  { nama: " Ai Siti ", mapel: "B . Inggris", foto: guru10 },
+  { nama: " Ai Siti ", mapel: "B . Inggris", foto: guru11 },
+  { nama: " Ai Siti ", mapel: "B . Inggris", foto: guru12 },
+  { nama: " Ai Siti ", mapel: "B . Inggris", foto: guru13 },
+  { nama: " Ai Siti ", mapel: "B . Inggris", foto: guru14 },
+];
+
 
 const displayedGuruList = ref(guruList.slice(0, 4)); 
 
