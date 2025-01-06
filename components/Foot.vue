@@ -20,7 +20,7 @@
 
         <!-- Ikuti Kami -->
         <div class="col-md-3 mb-3">
-          <h5>Soasial Media</h5>
+          <h5>Sosial Media</h5>
           <ul class="list-unstyled">
             <li><a href="https://www.facebook.com/4smkn" class="text-white text-decoration-none">Facebook</a></li>
             <li><a href="https://x.com/4smkn" class="text-white text-decoration-none">Twitter</a></li>
@@ -45,7 +45,7 @@
       <hr class="text-white" />
       <div class="text-center">
         <p class="mb-0">&copy; 2024. SMK NEGERI 4 Tasikmalaya. All rights reserved.</p>
-        <p class="mb-0">by zaskia nurul huda</p>
+        <p class="mb-0"> by Ai Siti </p>
       </div>
     </div>
   </footer>

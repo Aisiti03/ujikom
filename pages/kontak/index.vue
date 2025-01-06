@@ -45,7 +45,7 @@
               </li>
               <li>
                 <strong>Telepon:</strong><br />
-                (0265) 123456789
+                (0222) 123456789
               </li>
               <li>
                 <strong>Jam Operasional:</strong><br />
