@@ -58,6 +58,9 @@
           <li class="me-3">
             <NuxtLink to="/kontak" class="nav-link">Hubungi kami</NuxtLink>
           </li>
+          <li class="me-3">
+            <NuxtLink to="/biodata" class="nav-link">Biodata</NuxtLink>
+          </li>
         </ul>
       </div>
     </div>
